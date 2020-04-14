@@ -248,7 +248,7 @@ var styles = {
         outline: "none"
     },
     searchFocused: {
-        borderColor: "#78c008"
+        borderColor: "#1cabe2"
     },
     searchContainer: {
         width: "100%",
